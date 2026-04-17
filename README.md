@@ -75,15 +75,13 @@ ai-email-agent-n8n/
 ## 📸 Screenshots
 
 ### 🔹 Workflow Overview  
-![Workflow](screenshots/workflow.png)
+![Workflow](Image%201%20of%20workflow.png)
 
 ### 🔹 LLM Integration (Ollama)  
-![LLM](screenshots/llm-integration.png)
+![LLM](Gmail%20Trigger.png)
 
 ### 🔹 Output / Response Generation  
-![Output](screenshots/output.png)
-
----
+![Output](Reply%20Message.png)
 
 ## 🧩 Use Case
 
